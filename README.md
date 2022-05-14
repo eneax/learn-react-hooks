@@ -10,3 +10,7 @@
 ### Info
 
 This repo contains all the notes and exercises for UI.dev's [React Hooks](https://ui.dev/react-hooks) course.
+
+### Summary
+
+- `useState`: persist value between renders and trigger a re-render
