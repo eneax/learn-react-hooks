@@ -14,3 +14,4 @@ This repo contains all the notes and exercises for UI.dev's [React Hooks](https:
 ### Summary
 
 - `useState`: persist value between renders and trigger a re-render
+- `useEffect`: perform side effects (in functional components) that run after render
